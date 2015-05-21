@@ -1,0 +1,9 @@
+add student Der 60
+add special_student Elise 81
+add teacher HTLin 20
+show
+greet Der
+greet Elise
+greet HTLin
+remove Der
+show
